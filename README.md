@@ -1,3 +1,5 @@
+## **Bistm Business** – Case Study Repo (No Code)
+
 # Bistm Business: Vendor Management Platform
 
 Bistm Business is a platform for automotive vendors to manage their business, showcase services/products, and connect with clients.
